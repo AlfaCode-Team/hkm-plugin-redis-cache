@@ -1,0 +1,15 @@
+{
+    "name": "alfacode-team/hkm-plugin-redis-cache",
+    "description": "HKM Kernel plugin providing 'cache.redis'.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["hkm-kernel", "plugin", "php", "cache.redis"],
+    "require": {
+        "php": ">=8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Plugins\\RedisCache\\": ""
+        }
+    }
+}
