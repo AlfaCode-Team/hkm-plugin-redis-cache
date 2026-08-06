@@ -1,6 +1,7 @@
 {
     "name": "redis-cache",
     "version": "1.0.0",
+    "kernel": "^1.0",
     "solves": "cache.redis",
     "type": "module",
 
